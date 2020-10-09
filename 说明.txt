@@ -1,0 +1,3 @@
+终端运行：run_ner.sh
+
+sh run_ner.sh
